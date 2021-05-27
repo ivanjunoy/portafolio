@@ -2,6 +2,8 @@
 
 Este es el primer proyecto que utilizo con Git y GitHub.
 
-Son libres de mirar e informar cualquier error o cambio que les gustaria. Claro esta, si les interesa!
+Son libres de mirar e informar cualquier error o sugerir un cambio. Claro esta, si les interesa!
 
-Saludos cordiales Ivan M. Junoy
+Saludos cordiales Ivan M. Junoy.
+
+:D
