@@ -1,4 +1,7 @@
-Este es el primer commit desde mi Bloc de notas hasta gitHub.
-:D
+<h1>**Bienvenidos!!**</h1> 
 
-Segundo Intento
+Este es el primer proyecto que utilizo con Git y GitHub.
+
+Son libres de mirar e informar cualquier error o cambio que les gustaria. Claro esta, si les interesa!
+
+Saludos cordiales Ivan M. Junoy
