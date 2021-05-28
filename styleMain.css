@@ -25,10 +25,15 @@ hr {
     grid-template-columns: auto 1fr auto;
     grid-gap: 0 2rem;
     align-items: center;
-    /* margin: 1rem 0 1rem 15rem;  */
+    margin: 1rem 0 1rem 15rem; 
     margin: auto;
     width: 62%;
- 
-
   }
+  
+/* 
+
+  .header {
+    display: block;
+    align-items: center;
+  } */
 
