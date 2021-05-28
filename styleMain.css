@@ -1,3 +1,34 @@
 body {
 	background-color: #f0edcc;
+    color:#023440;
+    margin: 1rem;
 }
+
+img {
+    border-radius: 50%;
+    width: 100px;
+    border: 2px solid #023440;
+  }
+
+.container {
+    max-width: 850px;
+    width: 100%;
+    margin: 0 auto;
+  }
+
+hr {
+    border: 1px solid #023440;
+  }
+
+.header {
+    display: grid;
+    grid-template-columns: auto 1fr auto;
+    grid-gap: 0 2rem;
+    align-items: center;
+    /* margin: 1rem 0 1rem 15rem;  */
+    margin: auto;
+    width: 62%;
+ 
+
+  }
+
