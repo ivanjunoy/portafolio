@@ -37,7 +37,6 @@ hr {
 
   .fs-2 {
     color:#023440;
-    white-space: nowrap;
   }
 
   .btn-primary {
@@ -49,6 +48,10 @@ hr {
 .list-group-item {
   background-color: inherit;
   border: inherit;
+}
+
+#titulo:hover {
+  opacity: 0.5;
 }
 
 
