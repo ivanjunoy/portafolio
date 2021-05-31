@@ -45,6 +45,12 @@ hr {
     background-color: #023440;
     border-color: #02343F;
 }
+
+.list-group-item {
+  background-color: inherit;
+  border: inherit;
+}
+
 /* 
 
   .header {
