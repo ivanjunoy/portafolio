@@ -37,7 +37,7 @@ hr {
 
   .fs-2 {
     color:#023440;
-
+    white-space: nowrap;
   }
 
   .btn-primary {
@@ -51,8 +51,9 @@ hr {
   border: inherit;
 }
 
-/* 
 
+/* white-space: nowrap; */
+/* 
   .header {
     display: block;
     align-items: center;
