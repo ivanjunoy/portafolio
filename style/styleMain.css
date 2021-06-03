@@ -8,6 +8,10 @@ a {
   color:#023440;
 }
 
+hr {
+  border: 1px solid #023440;
+}
+
 img {
     border-radius: 50%;
     width: 100px;
@@ -18,11 +22,7 @@ img {
     max-width: 850px;
     width: 100%;
     margin: 0 auto;
-  }
-
-hr {
-    border: 1px solid #023440;
-  }
+}
 
 .header {
     display: grid;
@@ -32,14 +32,13 @@ hr {
     margin: 1rem 0 1rem 15rem; 
     margin: auto;
     width: 62%;
-  }
+}
   
-
-  .fs-2 {
+.fs-2 {
     color:#023440;
-  }
+}
 
-  .btn-primary {
+.btn-primary {
     color: #f0edcc;
     background-color: #023440;
     border-color: #02343F;
@@ -54,11 +53,4 @@ hr {
   opacity: 0.5;
 }
 
-
-/* white-space: nowrap; */
-/* 
-  .header {
-    display: block;
-    align-items: center;
-  } */
 
