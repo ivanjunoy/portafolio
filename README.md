@@ -1,3 +1,3 @@
 <h1>Portafolio Ivan Manuel Junoy</h1>
 
-<p>Bienvenido a mi carrera!</p>
+<p>Bienvenidos a mi carrera!</p>
